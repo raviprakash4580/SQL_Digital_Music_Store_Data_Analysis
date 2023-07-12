@@ -1,1 +1,1 @@
-# SQL_digital_music_store_data_analysis
+# SQL_Digital_Music_Store_Data_Analysis
