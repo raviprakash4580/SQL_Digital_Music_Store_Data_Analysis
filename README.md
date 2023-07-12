@@ -6,5 +6,6 @@ This code uses SQL queries to answers some questions from a large datasets / tab
 1. pgAdmin 4
 2. PostgreSQL
 
-
+#Project Description
+This project will teach how to analyze the digital music playlist database. One can examine the dataset with SQL queries and help the store understand its business growth by answering simple questions.
 
